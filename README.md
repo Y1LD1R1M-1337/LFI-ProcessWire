@@ -1,12 +1,12 @@
-# LFI-Processwire CMS
+# LFI-ProcessWire CMS
 
 
-Local File Inclusion Processwire CMS < 2.7.1
+Local File Inclusion ProcessWire CMS < 2.7.1
 
 Product: https://processwire.com/
 
 
-Vendor: Processwire CMS
+Vendor: ProcessWire CMS
 
 
 Tested version: 2.x < 2.7.1
@@ -27,7 +27,7 @@ http://<host>/index.php?download=../config.php
 
 ** Solution **
 
-Upgrade Processwire CMS to version 2.7.1 or later.
+Upgrade ProcessWire CMS to version 2.7.1 or later.
 --
 Best Regards,
 Y1LD1R1M
